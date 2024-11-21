@@ -1,6 +1,6 @@
 ## YouTube Playlist Downloader (Python)
 
-This Python script allows you to download entire YouTube playlists either in MP3 or MP4 format. The tool uses the powerful yt-dlp library, which provides enhanced functionality over the traditional youtube-dl, and is capable of handling a wide variety of media formats and quality settings.
+Youtube_Downloader is a Python script that allows you to download entire YouTube playlists either in MP3 or MP4 format. The tool uses the powerful yt-dlp library, which provides enhanced functionality over the traditional youtube-dl, and is capable of handling a wide variety of media formats and quality settings.
 
 ### Features
 - Download Playlists: Supports downloading entire YouTube playlists.
